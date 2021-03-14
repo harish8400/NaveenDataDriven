@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="93.78">
+    <testcase classname="Free CRM Create Contacts" name="Free CRM Create a new contact scenario" time="48.669">
+        <system-out><![CDATA[Given user is already on Login Page.........................................passed
+When title of login page is Free CRM........................................passed
+Then click on login.........................................................passed
+Then user enters "harishkumar.qait@outlook.com" and "Harish@1993"...........passed
+Then user clicks on login button............................................passed
+Then user is on home page...................................................passed
+Then user moves to new contact page.........................................passed
+Then user enters contact details "Harish" and "Pasupuleti" and "Kumar"......passed
+Then Close the browser......................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Free CRM Create Contacts" name="Free CRM Create a new contact scenario 2" time="44.269">
+        <system-out><![CDATA[Given user is already on Login Page.........................................passed
+When title of login page is Free CRM........................................passed
+Then click on login.........................................................passed
+Then user enters "harishkumar.qait@outlook.com" and "Harish@1993"...........passed
+Then user clicks on login button............................................passed
+Then user is on home page...................................................passed
+Then user moves to new contact page.........................................passed
+Then user enters contact details "Bharath" and "Pasupuleti" and "Kumar".....passed
+Then Close the browser......................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
